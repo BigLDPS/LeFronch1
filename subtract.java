@@ -13,5 +13,6 @@ class sub {
 
     diff = x - y; 
     System.out.println("The difference is: " + diff);
+    scanner.close();
   }
 } 

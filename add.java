@@ -13,5 +13,6 @@ class add {
 
     sum = x + y; 
     System.out.println("Sum is: " + sum);
+    scanner.close();
   }
 } 
