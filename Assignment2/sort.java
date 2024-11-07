@@ -1,4 +1,3 @@
-
 public class MergeSort {
     // Main method to initiate merge sort
     public static void mergeSort(int[] array) {
